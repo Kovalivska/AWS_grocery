@@ -63,10 +63,8 @@ GroceryMate is a cloud-native, full-featured e-commerce application developed as
 
 ### 📐 Diagram (draw.io layout)
 
-```
-![image](https://github.com/user-attachments/assets/1bee9574-27ba-4bba-bc6c-d22728f0fe94)
+![image](https://github.com/user-attachments/assets/b609967d-4aa2-4403-baad-9a25afb8499d)
 
-```
 
 ### 🛠 Docker Deployment
 
